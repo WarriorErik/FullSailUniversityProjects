@@ -1,2 +1,2 @@
 # FullSailUniversityProjects
-These files contain a majority of all the projects I have built while at school. the files consist of the languages I used, ranging from c++, c#, python, Java, and sql. With Java, I am currently working on a private repo for Echelon Fitness, a software company based in Florida. However, Java is my favorite and strongest language.
+These files contain a majority of all the projects I have built while at school. the files consist of the languages I used, ranging from c++, c#, python, Java, and sql. With Java, however, I am currently working on a private repo, which I cannot share,  for Echelon Fitness, a software company based in Florida. However, Java is my favorite and most proficient t language.
